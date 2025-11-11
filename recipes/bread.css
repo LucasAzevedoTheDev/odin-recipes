@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(206, 201, 192);
+}
+
+.title {
+  background-color: rgb(170, 170, 109);
+  text-align: center;
+  padding: 1px;
+  width: 70vw;
+  margin: 15px auto;
+  font-size: 12px;
+}
+
+img {
+  width: 400px;
+  height: 390px;
+  margin: 15px auto;
+  display: block;
+}
+
+h2 {
+  background-color: rgb(170, 170, 109);
+  display: inline;
+}
+
+.credits {
+  margin-top: -1px;
+}
+
+h3 {
+  background-color: rgb(255, 255, 161);
+  padding: 5px;
+}
+
+.ingredients li{
+  padding: 2px;
+}
+
+.steps li {
+  padding: 2px;
+}
+
+.home {
+  width: 25px;
+  margin: 0 auto;
+}
+
+a {
+  color: rgb(42, 42, 35);
+}
+
+a:hover {
+  color: rgb(220, 220, 4)
+}
+
+a:active {
+  color: #fff;
+}
