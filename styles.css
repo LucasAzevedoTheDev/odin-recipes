@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(206, 201, 192);
+}
+
+.title {
+  background-color: rgb(170, 170, 109);
+  text-align: center;
+  padding: 1px;
+  width: 70vw;
+  margin: 15px auto;
+  font-size: 12px;
+}
+
+.list {
+  width: 50vw;
+  padding: 1px;
+  margin: 5vw auto;
+}
+
+.one {
+  width: 30%;
+  margin: auto;
+  padding: 13px;
+}
+
+.two {
+  width: 30%;
+  margin: auto;
+  padding: 13px;
+}
+
+.three {
+  width: 30%;
+  margin: auto;
+  padding: 13px;
+}
+
+a {
+  color: rgb(42, 42, 35);
+}
+
+a:hover {
+  color: rgb(220, 220, 4)
+}
+
+a:active {
+  color: #fff;
+}
